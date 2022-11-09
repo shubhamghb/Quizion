@@ -59,9 +59,9 @@
 </table>
 
 ## Screenshots
-<img src="./frontend/assets/img1.png" alt="Project Screenshots">
+<img src="C:\Users\shubh\Downloads\Kuizu-master\Quizion\Quizion.png" alt="Project Screenshots">
 
-<img src=""C:\Users\shubh\Downloads\Kuizu-master\Quizion\Quizion.png"" alt="Project Screenshots"> 
+ 
 
 <!-- <img src="./frontend/assets/stop.png" alt="Project Screenshots"> -->
 
