@@ -58,8 +58,8 @@
   </tbody>
 </table>
 
-## Screenshots
-<img src="C:\Users\shubh\Downloads\Kuizu-master\Quizion\Quizion.png" alt="Project Screenshots">
+C:\Users\shubh\Downloads\Kuizu-master\Quizion\Quizion.png## Screenshots
+<img src="C:\Users\shubh\Downloads\Kuizu-master\Quizion\Quizion.png" alt="Project Screenshots"> -->
 
  
 
